@@ -105,7 +105,7 @@ MediaPlayground is a comprehensive learning platform that combines traditional c
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/mediaplayground-learnhub.git
+git clone https://github.com/horizonhnk/mediaplayground-learnhub.git
 ```
 
 2. Set up XAMPP environment
